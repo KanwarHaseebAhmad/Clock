@@ -4,6 +4,7 @@ Created A Clock Using JavaScript
 # What Did I Learned
 <ul>
   <li><code>Date()</code> function in JavaScript</li>
+  <li>DOM Manipulation</li>
   <li>How to connect Bootstrap to a website</li>
  </ul>
  
@@ -11,4 +12,5 @@ Created A Clock Using JavaScript
 <ul>
   <li><code>Date().toDateString();</code></li>
   <li><code>Date().toLocaleTimeString('en-US');</code></li>
- </ul>
+  <li>Bootstrap To beautify Content</li>
+</ul>
