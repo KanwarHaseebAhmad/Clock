@@ -8,6 +8,7 @@ Created A Clock Using JavaScript
   <li>How to add Navbar</li>
   <li>DOM Manipulation</li>
   <li>How to connect Bootstrap to a website</li>
+  <li>Created Background</li>
  </ul>
  
 # What Did I Used
